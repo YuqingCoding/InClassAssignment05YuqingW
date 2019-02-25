@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">InClassAssignment05-YuqingW</string>
+    <string name="send_email">" enviar correo electrónico"</string>
+    <string name="launch_activity">" actividad de lanzamiento"</string>
+    <string name="launch_camera">" lanzar la cámara"</string>
+    <string name="only_send_title">" Sólo Enviar Título"</string>
+    <string name="your_message">" Tu Mensaje"</string>
+    <string name="title">" Título"</string>
+</resources>

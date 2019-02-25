@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">InClassAssignment05-YuqingW</string>
+    <string name="send_email">send email</string>
+    <string name="launch_activity">launch activity</string>
+    <string name="launch_camera">launch camera</string>
+    <string name="only_send_title">Only Send Title</string>
+    <string name="your_message">Your Message</string>
+    <string name="title">Title</string>
+</resources>
